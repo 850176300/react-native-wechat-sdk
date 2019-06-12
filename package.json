@@ -1,0 +1,50 @@
+{
+  "name": "react-native-wechat-sdk",
+  "version": "1.0.0",
+  "description": "react-native library for wechat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 1"
+  },
+  "files": [
+    "index.js",
+    "react-native-wechat-sdk.podspec",
+    "ios",
+    "android/libs",
+    "android/src",
+    "android/build.gradle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/850176300/react-native-wechat-sdk.git"
+  },
+  "keywords": [
+    "wechat",
+    "react",
+    "react-native",
+    "react-component",
+    "ios"
+  ],
+  "dependencies": {
+    "events": "1.0.2"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "author": "Jelly Liu <yorkiefixer@gmail.com>",
+  "contributors": [
+    {
+      "name": "Jelly Liu",
+      "email": "yorkiefixer@gmail.com"
+    },
+    {
+      "name": "Deng Yun",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/850176300/react-native-wechat-sdk/issues"
+  },
+  "homepage": "https://github.com/850176300/react-native-wechat-sdk#readme"
+}
